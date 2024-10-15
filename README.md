@@ -73,7 +73,6 @@ All arithmetic operations are performed using base-b digits, with efficient carr
    ./ListTest
    ./BigIntegerTest
 
-
 ## Design Considerations
 - **Efficiency**: Operations like normalization, carry management, and base conversions are implemented to ensure the code runs efficiently even for very large numbers.
 - **Modularity**: The project is divided into clear modules (List, BigInteger, Arithmetic) to maintain separation of concerns and ensure easy testing.
