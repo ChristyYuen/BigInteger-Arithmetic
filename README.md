@@ -62,16 +62,14 @@ All arithmetic operations are performed using base-b digits, with efficient carr
    make
 
 2. **Run the arithmetic client**:
-   ````
-   bash
+   ```bash
    ./Arithmetic input.txt output.txt
 
 - input.txt: Contains two large integers as described in the input format section.
 - output.txt: Will contain the results of the arithmetic operations.
 
 3. **Test the List and BigInteger ADTs**:
-   ```
-   bash
+   ```bash
    ./ListTest
    ./BigIntegerTest
 
